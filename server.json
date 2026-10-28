@@ -1,0 +1,17 @@
+{
+ "title": "缘起恶人谷",
+ "ip": "111.170.152.69",
+ "port": "7384",
+ "game_port": "3731",
+ "patch_port": "39001",
+ "manifest_url": "/patch/manifest.json",
+ "notice": "",
+ "areas": [
+  {
+   "name": "BGP大区",
+   "servers": [
+    "缘起恶人谷"
+   ]
+  }
+ ]
+}
